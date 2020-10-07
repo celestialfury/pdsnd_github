@@ -11,5 +11,5 @@ Exploring data related to bike share systems for three major cities in the Unite
 Washington.csv chicago.csv new_york_city.csv
 
 ### Credits
-Mehmet Cagatay Caglayan
+M. Cagatay Caglayan
 
